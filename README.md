@@ -1,21 +1,30 @@
-# Responsive LearnHub UI Design
+LearnHub - Responsive Educational Website UI
 
- Project Overview
-A responsive educational website UI designed in Figma.
+Intern Details
+- Name: K. Suchitra Reddy
+- Branch: CSE
+- Tool: Figma
 
- Screens Designed
-- Desktop View
-- Tablet View
-- Mobile View
+Project Name
+Responsive LearnHub UI Design
 
- Tool Used
+Project Description
+This project focuses on designing a responsive educational website called LearnHub. The design adapts across Desktop, Tablet, and Mobile devices while maintaining a consistent user experience.
+
+Tools Used
 - Figma
+Screens Included
+1. Desktop View
+2. Tablet View
+3. Mobile View
 
- Features
-- Responsive Layout
+Features
+- Responsive Design
 - Hero Section
-- Featured Courses
+- Featured Courses Section
 - Footer Section
+- Mobile Navigation Menu
+- Clean Modern UI
 
- Screenshots
-See the uploaded PNG files in this repository.
+Outcome
+Designed a complete responsive website interface using UI/UX principles and Figma. The project demonstrates adaptability across multiple screen sizes and devices.
