@@ -2,6 +2,7 @@ LearnHub - Responsive Educational Website UI
 
 Intern Details
 - Name: K. Suchitra Reddy
+- Intern ID:** CITS3937
 - Branch: CSE
 - Tool: Figma
 
@@ -13,18 +14,38 @@ This project focuses on designing a responsive educational website called LearnH
 
 Tools Used
 - Figma
-Screens Included
-1. Desktop View
-2. Tablet View
-3. Mobile View
 
-Features
-- Responsive Design
+## Features
+
+- Responsive Layout
+- Clean and Modern UI
 - Hero Section
-- Featured Courses Section
-- Footer Section
-- Mobile Navigation Menu
-- Clean Modern UI
+- Course Categories
+- Featured Courses
+- Navigation Bar
+- Call-to-Action Button
+- Mobile-Friendly Design
+- Consistent Color Palette
+- Easy Navigation
 
-Outcome
-Designed a complete responsive website interface using UI/UX principles and Figma. The project demonstrates adaptability across multiple screen sizes and devices.
+## Screens
+
+### Desktop View
+
+![Desktop View](Desktop%20view.png)
+
+### Tablet View
+
+![Tablet View](Tablet%20view.png)
+
+### Mobile View
+
+![Mobile View](Mobile%20view.png)
+
+## Outcome
+
+Designed a responsive educational website that provides a seamless user experience across Desktop, Tablet, and Mobile devices while following modern UI/UX design principles.
+
+---
+
+**Designed by Suchitra**
